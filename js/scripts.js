@@ -1,0 +1,10 @@
+$(document).ready(function(){
+  $("#cat").click(function(){
+    $("#meow").append("<li>nyaong!</li>");
+    $("#bark").append("<li>bork!</li>");
+  })
+  $("#dog").click(function(){
+    $("#meow").append("<li>nyaong!</li>");
+    $("#bark").append("<li>bork!</li>");
+  })
+});

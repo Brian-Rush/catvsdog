@@ -1,0 +1,22 @@
+/*button{
+  float: left;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+}*/
+
+button#cat {
+  background-image:url("file:///Users/Guest/Desktop/catvsdog/img/cathiss.png");
+  height: 332px;
+  width: 332px;
+  border: 5px solid gray;
+  float-left
+}
+
+button#dog {
+  background-image:url("file:///Users/Guest/Desktop/catvsdog/img/dog.png");
+  height: 332px;
+  width: 332px;
+  border: 5px solid gray;
+  float-left
+}
