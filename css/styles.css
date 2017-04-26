@@ -10,7 +10,7 @@ button#cat {
   height: 332px;
   width: 332px;
   border: 5px solid gray;
-  float-left
+  /*float: left*/
 }
 
 button#dog {
@@ -18,5 +18,20 @@ button#dog {
   height: 332px;
   width: 332px;
   border: 5px solid gray;
-  float-left
+  /*float: left*/
 }
+button#peekaboo {
+  height: 332px;
+  width: 332px;
+  border: 5px solid gray;
+  float: left
+}
+
+.panel {
+  float: left
+}
+/*
+.panel-body {
+  height: 332px;
+  width: 332px;
+}*/
